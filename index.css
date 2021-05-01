@@ -7,10 +7,7 @@
   font-family: 'Times New Roman', Times, serif sans-serif;
 }
 html{
-   scr
-}
-p{
-  color: white;
+   scroll-behavior: smooth;
 }
 
 body{
@@ -70,12 +67,12 @@ body{
 }
 
 .output .title h1{
-    color: #c5ecfd;
+    color: #744ad4;
     text-align: center;
     margin-bottom: 25px;
 }
 .main .title h1, .heading h1{
-  color: #c5ecfd;
+  color: #8a10f557;
   text-align: center;
   margin-bottom: 25px;
 }
