@@ -12,7 +12,7 @@
 #### Inorder to acces the project in your local files, you can clone it in these simple steps:
 
 ### Open your terminal
-#### use this command to clone '$ git clone https://github.com/cyruswere/dairy_biz.git
+#### use this command to clone '$ git clone https://github.com/cyruswere/dairy_biz.git'
 #### This will clone the repository in your local folder
 ### Technologies used
 #### 1 HTML
@@ -20,7 +20,7 @@
 #### 3 Git
 #### 4 JavaScript
 ### Live site
-#### View [Live] ()https://github.com/Queen-01/favorite-band.git)
+#### View [Live] (https://github.com/cyruswere/dairy_biz.git)
 
 ### License
 #### This project is under the MIT license
