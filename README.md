@@ -22,5 +22,3 @@
 ### Live site
 #### View [Live] (https://github.com/cyruswere/dairy_biz.git)
 
-### License
-#### This project is under the MIT license
