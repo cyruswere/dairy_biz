@@ -24,7 +24,7 @@ body{
   max-width: 550px;
   padding: 30px;
   border-radius: 5px;
-  box-shadow: 0 0 10px rgba(60, 32, 73, 0.897);
+  box-shadow: 0 0 10px #0fd850;
   background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
 }
 .output{
@@ -37,7 +37,7 @@ body{
     background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
     padding: 30px;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(60, 32, 73, 0.897);
+    box-shadow: 0 0 10px #0fd850;
 }
 
 .overTime{
@@ -50,7 +50,7 @@ body{
     background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
     padding: 30px;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(60, 32, 73, 0.897);
+    box-shadow: 0 0 10px #0fd850;
 }
 .leapYearReport {
   position: absolute;
@@ -62,21 +62,23 @@ body{
   background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
   padding: 30px;
   border-radius: 5px;
-  box-shadow: 0 0 10px rgba(60, 32, 73, 0.897);
+  box-shadow: 0 0 10px #0fd850;
 }
 
 .output .title h1{
-    color: white;
+    color: green;
     text-align: center;
     margin-bottom: 25px;
 }
 .main .title h1, .heading h1{
-  color: white;
+  color: green;
   text-align: center;
   margin-bottom: 25px;
 }
 h1{
-  color: white;
+  color: green;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 .contact-form{
@@ -97,21 +99,20 @@ h1{
   margin: 10px 0;
   background: transparent;
   border: 0px;
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid black;
   padding: 10px;
-  color: white;
   width: 100%;
 }
 
 ::-webkit-input-placeholder {
-  color: white;
+  color: black;
 }
 ::-moz-placeholder {
   
-  color: white;
+  color: black;
 }
 :-ms-input-placeholder {
-  color: white;
+  color: black;
 }
 
 .btn {
